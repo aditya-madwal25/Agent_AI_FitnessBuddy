@@ -18,7 +18,7 @@ Real-time answers to fitness-related queries.
 -Voice assistant support (Alexa, Google Assistant)
 -Real-time progress tracking dashboard.
 
-![Fitness Buddy Demo](agent/img.png)
+![Fitness Buddy Demo](desktop/agent/img.png)
 
 
 
